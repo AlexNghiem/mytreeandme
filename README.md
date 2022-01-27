@@ -1,2 +1,2 @@
 # mytreeandme
-a github repo created to debug the mytreeandme app for build on iOS with EAS
+This repo hosts the [support page for the MyTreeAndMe app]("alexnghiem.github.io/mytreeandme").
